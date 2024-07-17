@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>2FA - Sai email, mật khẩu</name>
+   <tag></tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>b7f78e72-a37c-475e-82c2-7430035ad0c3</testCaseGuid>
+</TestCaseEntity>

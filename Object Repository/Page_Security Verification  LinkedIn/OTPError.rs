@@ -1,0 +1,114 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>OTPError</name>
+   <tag></tag>
+   <elementGuidId>9bb1f7d1-9812-4762-8dd9-9e999b9e126e</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>div.body__banner.body__banner--error</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='app__container']/main/div/div</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorCollection>
+      <entry>
+         <key>SMART_LOCATOR</key>
+         <value>div >> internal:has-text=&quot;The verification code you entered isn't valid. Please check the code and try aga&quot;i >> nth=2</value>
+      </entry>
+   </smartLocatorCollection>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>div</value>
+      <webElementGuid>1465c2f5-4042-4d6f-903c-4842b9d89c84</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>body__banner body__banner--error </value>
+      <webElementGuid>f393140f-d326-4a56-b6b7-d0af7229b797</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>The verification code you entered isn't valid. Please check the code and try again.</value>
+      <webElementGuid>692e8814-5244-42d1-8900-db5f115873fc</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;app__container&quot;)/main[@class=&quot;app__content&quot;]/div[@class=&quot;body__banner-wrapper&quot;]/div[@class=&quot;body__banner body__banner--error&quot;]</value>
+      <webElementGuid>38bd08f1-df25-491d-ad94-f51b4a27b457</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='app__container']/main/div/div</value>
+      <webElementGuid>c8a8957a-065f-43f5-a1af-c3aa6e002c33</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Join now'])[1]/following::div[2]</value>
+      <webElementGuid>ad2c6724-1d5a-4e70-8e7a-c12e82218dc4</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Sign in'])[1]/following::div[2]</value>
+      <webElementGuid>f5a65143-d45a-4226-b635-89758f7bd2df</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Enter the code you see on your authenticator app'])[1]/preceding::div[3]</value>
+      <webElementGuid>eeb7acb9-1b51-4b36-8a4b-c2f1c2c83be1</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Recognize this device in future'])[1]/preceding::div[4]</value>
+      <webElementGuid>2e94b062-7787-4b54-9d70-523900e9cc46</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//main/div/div</value>
+      <webElementGuid>9226a09d-ea4c-4bc6-a413-64dce4215ffa</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//div[(text() = concat(&quot;The verification code you entered isn&quot; , &quot;'&quot; , &quot;t valid. Please check the code and try again.&quot;) or . = concat(&quot;The verification code you entered isn&quot; , &quot;'&quot; , &quot;t valid. Please check the code and try again.&quot;))]</value>
+      <webElementGuid>dbcf6cc8-b2d4-4c7d-acd6-340d21556d0d</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

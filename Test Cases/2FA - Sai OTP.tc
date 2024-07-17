@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>2FA - Sai OTP</name>
+   <tag></tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>7d310af7-a75a-4a08-b133-c75ec629eb27</testCaseGuid>
+</TestCaseEntity>

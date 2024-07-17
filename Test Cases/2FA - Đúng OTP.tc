@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>2FA - Đúng OTP</name>
+   <tag></tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>2644acb5-e51b-43d5-9449-8ebc49ed7c55</testCaseGuid>
+</TestCaseEntity>
